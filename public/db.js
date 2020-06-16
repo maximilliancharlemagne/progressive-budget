@@ -1,3 +1,5 @@
+//boilerplate db.js file taken from Quinton Fults, UCI Boot Camp instructor
+
 let db
 
 const request = indexedDB.open('list', 1)
